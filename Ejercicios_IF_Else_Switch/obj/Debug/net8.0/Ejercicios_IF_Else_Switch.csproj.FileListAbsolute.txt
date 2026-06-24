@@ -1,0 +1,14 @@
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/bin/Debug/net8.0/Ejercicios_IF_Else_Switch
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/bin/Debug/net8.0/Ejercicios_IF_Else_Switch.deps.json
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/bin/Debug/net8.0/Ejercicios_IF_Else_Switch.runtimeconfig.json
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/bin/Debug/net8.0/Ejercicios_IF_Else_Switch.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/bin/Debug/net8.0/Ejercicios_IF_Else_Switch.pdb
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/Ejercicios_IF_Else_Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/Ejercicios_IF_Else_Switch.AssemblyInfoInputs.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/Ejercicios_IF_Else_Switch.AssemblyInfo.cs
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/Ejercicios_IF_Else_Switch.csproj.CoreCompileInputs.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/Ejercicios_IF_Else_Switch.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/refint/Ejercicios_IF_Else_Switch.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/Ejercicios_IF_Else_Switch.pdb
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/Ejercicios_IF_Else_Switch.genruntimeconfig.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/Ejercicios_IF_Else_Switch/obj/Debug/net8.0/ref/Ejercicios_IF_Else_Switch.dll
