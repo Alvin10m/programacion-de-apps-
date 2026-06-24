@@ -1,0 +1,15 @@
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/bin/Debug/net8.0/EstacionMeteorologica
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/bin/Debug/net8.0/EstacionMeteorologica.deps.json
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/bin/Debug/net8.0/EstacionMeteorologica.runtimeconfig.json
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/bin/Debug/net8.0/EstacionMeteorologica.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/bin/Debug/net8.0/EstacionMeteorologica.pdb
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/EstacionMeteorologica.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/EstacionMeteorologica.AssemblyInfoInputs.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/EstacionMeteorologica.AssemblyInfo.cs
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/EstacionMeteorologica.csproj.CoreCompileInputs.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/EstacionMeteorologica.sourcelink.json
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/EstacionMeteorologica.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/refint/EstacionMeteorologica.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/EstacionMeteorologica.pdb
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/EstacionMeteorologica.genruntimeconfig.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/Debug/net8.0/ref/EstacionMeteorologica.dll
