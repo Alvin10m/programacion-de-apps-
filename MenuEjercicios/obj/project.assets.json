@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/EstacionMeteorologica.csproj",
-      "projectName": "EstacionMeteorologica",
-      "projectPath": "/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/EstacionMeteorologica.csproj",
+      "projectUniqueName": "/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/MenuEjercicios.csproj",
+      "projectName": "MenuEjercicios",
+      "projectPath": "/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/MenuEjercicios.csproj",
       "packagesPath": "/home/alvin/.nuget/packages/",
-      "outputPath": "/home/alvin/Escritorio/proyectos de programacion de apps/EstacionMeteorologica/obj/",
+      "outputPath": "/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alvin/.nuget/NuGet/NuGet.Config"

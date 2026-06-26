@@ -1,0 +1,15 @@
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/bin/Debug/net8.0/MenuEjercicios
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/bin/Debug/net8.0/MenuEjercicios.deps.json
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/bin/Debug/net8.0/MenuEjercicios.runtimeconfig.json
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/bin/Debug/net8.0/MenuEjercicios.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/bin/Debug/net8.0/MenuEjercicios.pdb
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/MenuEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/MenuEjercicios.AssemblyInfoInputs.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/MenuEjercicios.AssemblyInfo.cs
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/MenuEjercicios.csproj.CoreCompileInputs.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/MenuEjercicios.sourcelink.json
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/MenuEjercicios.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/refint/MenuEjercicios.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/MenuEjercicios.pdb
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/MenuEjercicios.genruntimeconfig.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/MenuEjercicios/obj/Debug/net8.0/ref/MenuEjercicios.dll

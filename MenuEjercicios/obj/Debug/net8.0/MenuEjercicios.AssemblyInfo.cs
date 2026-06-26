@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EstacionMeteorologica")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MenuEjercicios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1ded737b6205a42763f956f728f7807274b3fe7")]
-[assembly: System.Reflection.AssemblyProductAttribute("EstacionMeteorologica")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EstacionMeteorologica")]
+[assembly: System.Reflection.AssemblyProductAttribute("MenuEjercicios")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MenuEjercicios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
