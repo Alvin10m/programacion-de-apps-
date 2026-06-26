@@ -1,0 +1,15 @@
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/bin/Debug/net8.0/SistemaBancario
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/bin/Debug/net8.0/SistemaBancario.deps.json
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/bin/Debug/net8.0/SistemaBancario.runtimeconfig.json
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/bin/Debug/net8.0/SistemaBancario.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/bin/Debug/net8.0/SistemaBancario.pdb
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/SistemaBancario.AssemblyInfoInputs.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/SistemaBancario.AssemblyInfo.cs
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/SistemaBancario.csproj.CoreCompileInputs.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/SistemaBancario.sourcelink.json
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/SistemaBancario.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/refint/SistemaBancario.dll
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/SistemaBancario.pdb
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/SistemaBancario.genruntimeconfig.cache
+/home/alvin/Escritorio/proyectos de programacion de apps/SistemaBancario/obj/Debug/net8.0/ref/SistemaBancario.dll
